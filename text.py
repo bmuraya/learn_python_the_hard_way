@@ -1,3 +1,2 @@
-a = [1, 2, 3, 4]
-#a.append(5)
-print(a[-1])
+for i in [1, 2, 3, 4]:
+    print(i, end=" ")

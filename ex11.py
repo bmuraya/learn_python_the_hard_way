@@ -7,7 +7,7 @@ weight = input()
 
 print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 
-#sample 
+#sample input data
 
 name = input("Please enter your name: ")
 age = int(input("Please enter your age: "))
